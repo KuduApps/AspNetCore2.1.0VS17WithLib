@@ -1,6 +1,6 @@
 using System;
 
-namespace DotNetCore21.Models
+namespace DotNetCore210.Models
 {
     public class ErrorViewModel
     {
